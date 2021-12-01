@@ -1,5 +1,5 @@
-import { test } from "./test"
-import { readInput } from "./readInput"
+import { test } from './test';
+import { readInput, readExample } from './readInput';
 
-export { test, readInput }
-export default { test, readInput }
+export { test, readInput, readExample };
+export default { test, readInput, readExample };
